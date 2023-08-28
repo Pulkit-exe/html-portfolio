@@ -5,14 +5,7 @@ This is a basic HTML portfolio template that you can use to showcase your projec
 ## Table of Contents
 
 - [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Customization](#customization)
-  - [Adding Projects](#adding-projects)
-  - [Modifying Styles](#modifying-styles)
-- [License](#license)
+- [Modifying Styles](#modifying-styles)
 
 ## Features
 
